@@ -133,9 +133,3 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
-.profile-icon {
-    width: 100px;  /* Must be equal */
-    height: 100px; /* Must be equal */
-    object-fit: cover; /* Prevents stretching */
-    border-radius: 50%; /* Makes it a circle */
-}
